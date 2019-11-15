@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "栈实现计算表达式", "栈实现计算表达式.vcxproj", "{DA06D128-3311-4427-87AB-A17E825A641C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA06D128-3311-4427-87AB-A17E825A641C}.Debug|x64.ActiveCfg = Debug|x64
+		{DA06D128-3311-4427-87AB-A17E825A641C}.Debug|x64.Build.0 = Debug|x64
+		{DA06D128-3311-4427-87AB-A17E825A641C}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA06D128-3311-4427-87AB-A17E825A641C}.Debug|x86.Build.0 = Debug|Win32
+		{DA06D128-3311-4427-87AB-A17E825A641C}.Release|x64.ActiveCfg = Release|x64
+		{DA06D128-3311-4427-87AB-A17E825A641C}.Release|x64.Build.0 = Release|x64
+		{DA06D128-3311-4427-87AB-A17E825A641C}.Release|x86.ActiveCfg = Release|Win32
+		{DA06D128-3311-4427-87AB-A17E825A641C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECB5C8C5-210B-400B-8D7E-6853C6C1A95E}
+	EndGlobalSection
+EndGlobal
